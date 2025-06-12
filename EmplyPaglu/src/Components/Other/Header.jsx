@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { setLocalStorage } from '../../utils/localStorage'
+import { setLocalStorage } from '../../Utils/LocalStorage'
 
 const Header = (props) => {
 
